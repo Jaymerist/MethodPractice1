@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\Documents\AbsoluteValue\bin\Debug\net6.0\AbsoluteValue.exe
+C:\Users\mkamiss1\Documents\AbsoluteValue\bin\Debug\net6.0\AbsoluteValue.deps.json
+C:\Users\mkamiss1\Documents\AbsoluteValue\bin\Debug\net6.0\AbsoluteValue.runtimeconfig.json
+C:\Users\mkamiss1\Documents\AbsoluteValue\bin\Debug\net6.0\AbsoluteValue.dll
+C:\Users\mkamiss1\Documents\AbsoluteValue\bin\Debug\net6.0\AbsoluteValue.pdb
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.AssemblyInfo.cs
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.dll
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\refint\AbsoluteValue.dll
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.pdb
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\AbsoluteValue.genruntimeconfig.cache
+C:\Users\mkamiss1\Documents\AbsoluteValue\obj\Debug\net6.0\ref\AbsoluteValue.dll
